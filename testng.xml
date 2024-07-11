@@ -10,7 +10,7 @@
             <class name="tests.WishListTest"/>
             <class name="tests.AddToCartTest"/>
             <class name="tests.AddReviewTest"/>
-            <!--<class name="tests.CompareTest"/>-->
+            <class name="tests.CompareTest"/>
             <class name="tests.HoverMenuTest"/>
             <class name="tests.SearchTest"/>
         </classes>
